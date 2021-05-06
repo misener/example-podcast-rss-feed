@@ -8,7 +8,7 @@
     <!-- Apple's channel-level "Required tags" -->
     <!-- https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
     <title>Where Does My Podcast Metadata Appear? (podcast-level title)</title>
-    <description>(Podcast-level description) This is an example podcast feed intended to demonstrate where and how various pieces of podcast metadata appear in different podcast player apps. This description tag is plain text. According to Apple Podcasts, the maximum amount of text allowed in the podcast-level description tag is 4000 characters.</description>
+    <description>(Podcast-level description) Plain text. No HTML. No hyperlinks. No rich text. No paragraph breaks. Maximum 4000 characters.</description>
     <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed" />
     <language>en</language>
     <itunes:category text="Business">
@@ -44,7 +44,7 @@
       <title>Where Does My Podcast Metadata Appear? (podcast-level image title)</title>
       <url>https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed</url>
     </image>
-    <itunes:summary>(Podcast-level itunes:summary) Plain text. No HTML. No rich text. No hyperlinks. Simplecast calls this "Show Info: Description."</itunes:summary>
+    <itunes:summary>(Podcast-level itunes:summary) Plain text. No HTML. No rich text. No hyperlinks. No paragraph breaks. Simplecast calls this "Show Info: Description."</itunes:summary>
     <itunes:keywords>podcast-level itunes:keyword, comma, separated, list, keywords, tags, pacific content</itunes:keywords>
 
 
@@ -57,7 +57,7 @@
       <guid isPermaLink="false">2160f723-7ae5-4a9c-b395-efedaaf45c28</guid>
       <pubDate>Tue, 4 May 2021 04:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/the-hare-the-tortoise-iBWZ_aHc</link>
@@ -74,7 +74,7 @@
       <!-- Item-level tags not explicitly mentioned by Apple, but included by Simplecast -->
       <author>info@pacific-content.com (episode-level author)</author>
       <content:encoded>
-        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML.</p><p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol></p><p>Simplecast calls this the "Episode Notes"</p><p>Support for images <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </content:encoded>
 
       <itunes:author>(Episode-level itunes:owner) Pacific Content</itunes:author>
@@ -95,7 +95,7 @@
       <guid isPermaLink="false">ee3a2289-2179-4b08-9a14-8b35af9afecc</guid>
       <pubDate>Mon, 3 May 2021 04:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/the-fox-the-stork-TcktxGaZ</link>
@@ -112,7 +112,7 @@
       <!-- Item-level tags not explicitly mentioned by Apple, but included by Simplecast -->
       <author>info@pacific-content.com (episode-level author)</author>
       <content:encoded>
-        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML.</p><p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol></p><p>Simplecast calls this the "Episode Notes"</p><p>Support for images <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </content:encoded>
 
       <itunes:author>(Episode-level itunes:owner) Pacific Content</itunes:author>
@@ -134,7 +134,7 @@
       <guid isPermaLink="false">303e76d4-43df-4824-97ae-71fb4efe498a</guid>
       <pubDate>Sun, 2 May 2021 06:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/the-frogs-and-the-ox</link>
@@ -151,7 +151,7 @@
       <!-- Item-level tags not explicitly mentioned by Apple, but included by Simplecast -->
       <author>info@pacific-content.com (episode-level author)</author>
       <content:encoded>
-        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML.</p><p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol></p><p>Simplecast calls this the "Episode Notes"</p><p>Support for images <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </content:encoded>
 
       <itunes:author>(Episode-level itunes:owner) Pacific Content</itunes:author>
@@ -172,7 +172,7 @@
       <guid isPermaLink="false">3dc3d343-a86e-439e-8062-d58bc14ac622</guid>
       <pubDate>Sat, 1 May 2021 04:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/season-one-trailer-episode-level-title-_4vMB_rV</link>
@@ -188,7 +188,7 @@
       <!-- Item-level tags not explicitly mentioned by Apple, but included by Simplecast -->
       <author>info@pacific-content.com (episode-level author)</author>
       <content:encoded>
-        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML.</p><p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol></p><p>Simplecast calls this the "Episode Notes"</p><p>Support for images <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </content:encoded>
 
       <itunes:author>(Episode-level itunes:owner) Pacific Content</itunes:author>
