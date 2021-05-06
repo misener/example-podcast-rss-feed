@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <!-- Apple: A Podcaster’s Guide to RSS: https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
+    <!-- Spotify Podcast Delivery Specification: https://podcasters.spotify.com/terms/Spotify_Podcast_Delivery_Specification_v1.6.pdf -->
+    <!-- RSS feed guidelines for Google Podcasts: https://support.google.com/podcast-publishers/answer/9889544?hl=en -->
+
     <!-- Apple's channel-level "Required tags" -->
     <!-- https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
     <title>Where Does My Podcast Metadata Appear? (&lt;title&gt;)</title>
