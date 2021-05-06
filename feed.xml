@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <!-- Apple's channel-level "Required tags" -->
+    <!-- https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
+    <title>Where Does My Podcast Metadata Appear? (&lt;title&gt;)</title>
+    <description>This is an example podcast feed intended to demonstrate where and how various pieces of podcast metadata appear in different podcast player apps. This &lt;description&gt; tag is plain text. According to Apple Podcasts, the maximum amount of text allowed in the podcast-level &lt;description&gt; tag is 4000 characters.</description>
+    <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed" />
+    <language>en</language>
+    <itunes:category text="Business">
+      <itunes:category text="Marketing" />
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Apple's channel-level "Recommended tags" -->
+    <!-- https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
+    <itunes:author>Pacific Content &lt;itunes:author&gt;</itunes:author>
+    <link>https://examplemetadatashow.pacific-content.com</link>
+    <itunes:owner>
+      <itunes:name>Show Owner &lt;itunes:owner&gt;</itunes:name>
+      <itunes:email>info@pacific-content.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Apple's channel-level "Situational tags" -->
+    <!-- https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
+    <itunes:title>Where Does My Podcast Metadata Appear? (&lt;itunes:title&gt;)</itunes:title>
+    <itunes:type>episodic</itunes:type>
+    <copyright>&#169; 2021 Pacific Content &lt;copyright&gt;</copyright>
+    <itunes:block>no</itunes:block>
+    <itunes:complete>no</itunes:complete>
+
+    <!-- Channel-level tags not explicitly mentioned by Apple, but included by Simplecast -->
+    <pubDate>Wed, 5 May 2021 22:28:58 +0000</pubDate>
+    <lastBuildDate>Wed, 5 May 2021 22:32:01 +0000</lastBuildDate>
+    <image>
+      <link>https://examplemetadatashow.pacific-content.com</link>
+      <title>Where Does My Podcast Metadata Appear? (&lt;title&gt;)</title>
+      <url>https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed</url>
+    </image>
+    <itunes:summary>This &lt;itunes:summary&gt; tag is plain text.</itunes:summary>
+    <itunes:keywords>comma, separated, list, keywords, tags, pacific content</itunes:keywords>
+
+    <item>
+      <!-- Apple's item-level "Required tags" -->
+      <title>The Frogs &amp; the Ox &lt;title&gt;</title>
+      <enclosure length="1521131" type="audio/mpeg" url="https://cdn.simplecast.com/audio/f5642a71-a69b-48c4-a278-e25c9a4216ee/episodes/824ebd64-60b5-4f47-b7ba-2299780a8e88/audio/14561842-b9ca-47e0-be29-54c5a6f4bd2b/default_tc.mp3?aid=rss_feed&amp;feed=vHtClU6U" />
+
+      <!-- Apple's item-level "Recommended tags" -->
+      <guid isPermaLink="false">303e76d4-43df-4824-97ae-71fb4efe498a</guid>
+      <pubDate>Wed, 5 May 2021 22:00:00 +0000</pubDate>
+      <description>
+        <![CDATA[<p>This is the item-level &lt;description&gt; tag. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
+      </description>
+      <itunes:duration>00:01:35</itunes:duration>
+      <link>https://examplemetadatashow.pacific-content.com/episodes/the-frogs-and-the-ox</link>
+      <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/2d466205-3465-4e9a-965c-eb2b015ada80/3000x3000/bun-8.jpg?aid=rss_feed" />
+      <itunes:explicit>no</itunes:explicit>
+
+      <!-- Apple's item-level "Situational tags" -->
+      <itunes:title>The Frogs &amp; the Ox &lt;itunes:title&gt;</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>no</itunes:block>
+
+      <!-- Item-level tags not explicitly mentioned by Apple, but included by Simplecast -->
+      <author>info@pacific-content.com (&lt;author&gt;)</author>
+      <content:encoded>
+        <![CDATA[<p>This is the item-level &lt;content:encoded&gt; tag. Simplecast calls this the "Episode Notes"</p>]]>
+      </content:encoded>
+
+      <itunes:author>Show Owner &lt;itunes:owner&gt;</itunes:author>
+      <itunes:summary>This is the item-level &lt;itunes:summary&gt; tag. Plain text. No HTML. Simplecast calls this the &quot;Episode Summary&quot;</itunes:summary>
+      <itunes:subtitle>This is the item-level &lt;itunes:subtitle&gt; tag. Plain text. No HTML. Simplecast calls this the &quot;Episode Summary&quot;</itunes:subtitle>
+      <itunes:keywords>frogs, ox, pacific content</itunes:keywords>
+    </item>
+  </channel>
+</rss>
