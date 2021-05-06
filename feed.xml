@@ -56,7 +56,7 @@
       <guid isPermaLink="false">303e76d4-43df-4824-97ae-71fb4efe498a</guid>
       <pubDate>Wed, 5 May 2021 22:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>This is the episode-level description tag. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>This is the episode-level <code>description</code> tag. This field allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/the-frogs-and-the-ox</link>
@@ -73,12 +73,12 @@
       <!-- Item-level tags not explicitly mentioned by Apple, but included by Simplecast -->
       <author>info@pacific-content.com (episode-level author)</author>
       <content:encoded>
-        <![CDATA[<p>This is the item-level content:encoded tag. Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>This is the item-level <code>content:encoded</code> tag. This field allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Simplecast calls this the "Episode Notes"</p>]]>
       </content:encoded>
 
       <itunes:author>Show Owner (episode-level itunes:owner)</itunes:author>
-      <itunes:summary>This is the episode-level itunes:summary tag. Plain text. No HTML. Simplecast calls this the &quot;Episode Summary&quot;</itunes:summary>
-      <itunes:subtitle>This is the episode-level itunes:subtitle tag. Plain text. No HTML. Simplecast calls this the &quot;Episode Summary&quot;</itunes:subtitle>
+      <itunes:summary>This is the episode-level itunes:summary tag. Plain text. No HTML. Simplecast calls this the &quot;Episode Summary.&quot;</itunes:summary>
+      <itunes:subtitle>This is the episode-level itunes:subtitle tag. Plain text. No HTML. Simplecast calls this the &quot;Episode Summary.&quot;</itunes:subtitle>
       <itunes:keywords>episode-level itunes:keyword, frogs, ox, pacific content</itunes:keywords>
     </item>
   </channel>
