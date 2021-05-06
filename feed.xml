@@ -77,8 +77,8 @@
       </content:encoded>
 
       <itunes:author>Show Owner (episode-level itunes:owner)</itunes:author>
-      <itunes:summary>This is the episode-level itunes:summary tag. Plain text. No HTML. Simplecast calls this the &quot;Episode Summary.&quot;</itunes:summary>
-      <itunes:subtitle>This is the episode-level itunes:subtitle tag. Plain text. No HTML. Simplecast calls this the &quot;Episode Summary.&quot;</itunes:subtitle>
+      <itunes:summary>(Episode-level itunes:summary) Plain text. No HTML. Simplecast calls this the &quot;Episode Summary.&quot;</itunes:summary>
+      <itunes:subtitle>(Episode-level itunes:subtitle) Plain text. No HTML. Simplecast calls this the &quot;Episode Summary.&quot;</itunes:subtitle>
       <itunes:keywords>episode-level itunes:keyword, frogs, ox, pacific content</itunes:keywords>
     </item>
   </channel>
