@@ -165,7 +165,7 @@
     <item>
       <!-- Apple's item-level "Required tags" -->
       <title>Season one trailer (episode-level title)</title>
-      <enclosure length="1521131" type="audio/mpeg" url="https://cdn.simplecast.com/audio/f5642a71-a69b-48c4-a278-e25c9a4216ee/episodes/36551d91-7360-45d5-b738-547a25d3be64/audio/c9e6fb4a-e75e-4b9d-a9d6-804325adae0d/default_tc.mp3" />
+      <enclosure length="1521131" type="audio/mpeg" url="https://cdn.simplecast.com/audio/f5642a71-a69b-48c4-a278-e25c9a4216ee/episodes/60bbf176-ee21-4563-a5af-b336f145d193/audio/200d228e-a6fc-42b8-b4ca-6ddb6b6e3af9/default_tc.mp3" />
 
       <!-- Apple's item-level "Recommended tags" -->
       <guid isPermaLink="false">3dc3d343-a86e-439e-8062-d58bc14ac622</guid>
@@ -175,7 +175,7 @@
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/season-one-trailer-episode-level-title-_4vMB_rV</link>
-      <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/85c72015-445d-46e2-97b0-d73d258639e2/3000x3000/bun-11.jpg" />
+      <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/80e3f38f-a867-481f-9f05-d3384c2dc13a/3000x3000/trailer.jpg" />
       <itunes:explicit>no</itunes:explicit>
 
       <!-- Apple's item-level "Situational tags" -->
