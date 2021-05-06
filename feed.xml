@@ -9,7 +9,7 @@
     <!-- https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
     <title>Product Packaging Show (podcast-level title)</title>
     <description>(Podcast-level description) Plain text. No HTML. No hyperlinks. No rich text. No paragraph breaks. Maximum 4000 characters.</description>
-    <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed" />
+    <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/ec899773-5670-4500-ae50-58a167b62f9c/3000x3000/bun-12.jpg" />
     <language>en</language>
     <itunes:category text="Business">
       <itunes:category text="Marketing" />
@@ -42,7 +42,7 @@
     <image>
       <link>https://examplemetadatashow.pacific-content.com</link>
       <title>Where Does My Podcast Metadata Appear? (podcast-level image title)</title>
-      <url>https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed</url>
+      <url>https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/ec899773-5670-4500-ae50-58a167b62f9c/3000x3000/bun-12.jpg</url>
     </image>
     <itunes:summary>(Podcast-level itunes:summary) Plain text. No HTML. No rich text. No hyperlinks. No paragraph breaks. Simplecast calls this "Show Info: Description."</itunes:summary>
     <itunes:keywords>podcast-level itunes:keyword, comma, separated, list, keywords, tags, pacific content</itunes:keywords>
