@@ -64,7 +64,7 @@
       <itunes:explicit>no</itunes:explicit>
 
       <!-- Apple's item-level "Situational tags" -->
-      <itunes:title>The Frogs &amp; the Ox (episode-level title itunes:title)</itunes:title>
+      <itunes:title>The Frogs &amp; the Ox (episode-level itunes:title)</itunes:title>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
