@@ -44,7 +44,7 @@
       <title>Where Does My Podcast Metadata Appear? (podcast-level image title)</title>
       <url>https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed</url>
     </image>
-    <itunes:summary>This podcast-level itunes:summary tag is plain text.</itunes:summary>
+    <itunes:summary>(Podcast-level itunes:summary) Plain text. HTML.</itunes:summary>
     <itunes:keywords>podcast-level itunes:keyword, comma, separated, list, keywords, tags, pacific content</itunes:keywords>
 
     <item>
@@ -56,7 +56,7 @@
       <guid isPermaLink="false">303e76d4-43df-4824-97ae-71fb4efe498a</guid>
       <pubDate>Wed, 5 May 2021 22:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>This is the episode-level <code>description</code> tag. This field allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/the-frogs-and-the-ox</link>
@@ -73,10 +73,10 @@
       <!-- Item-level tags not explicitly mentioned by Apple, but included by Simplecast -->
       <author>info@pacific-content.com (episode-level author)</author>
       <content:encoded>
-        <![CDATA[<p>This is the item-level <code>content:encoded</code> tag. This field allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Simplecast calls this the "Episode Notes"</p>]]>
+        <![CDATA[<p>(Episode-level <code>content:encoded</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Simplecast calls this the "Episode Notes"</p>]]>
       </content:encoded>
 
-      <itunes:author>Show Owner (episode-level itunes:owner)</itunes:author>
+      <itunes:author>(Episode-level itunes:owner) Pacific Content</itunes:author>
       <itunes:summary>(Episode-level itunes:summary) Plain text. No HTML. Simplecast calls this the &quot;Episode Summary.&quot;</itunes:summary>
       <itunes:subtitle>(Episode-level itunes:subtitle) Plain text. No HTML. Simplecast calls this the &quot;Episode Summary.&quot;</itunes:subtitle>
       <itunes:keywords>episode-level itunes:keyword, frogs, ox, pacific content</itunes:keywords>
