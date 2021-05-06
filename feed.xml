@@ -57,7 +57,7 @@
       <guid isPermaLink="false">2160f723-7ae5-4a9c-b395-efedaaf45c28</guid>
       <pubDate>Tue, 4 May 2021 04:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images in this tag, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/the-hare-the-tortoise-iBWZ_aHc</link>
@@ -95,7 +95,7 @@
       <guid isPermaLink="false">ee3a2289-2179-4b08-9a14-8b35af9afecc</guid>
       <pubDate>Mon, 3 May 2021 04:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images in this tag, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/the-fox-the-stork-TcktxGaZ</link>
@@ -134,7 +134,7 @@
       <guid isPermaLink="false">303e76d4-43df-4824-97ae-71fb4efe498a</guid>
       <pubDate>Sun, 2 May 2021 06:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images in this tag, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/the-frogs-and-the-ox</link>
@@ -172,7 +172,7 @@
       <guid isPermaLink="false">3dc3d343-a86e-439e-8062-d58bc14ac622</guid>
       <pubDate>Sat, 1 May 2021 04:00:00 +0000</pubDate>
       <description>
-        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
+        <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images in this tag, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
       <link>https://examplemetadatashow.pacific-content.com/episodes/season-one-trailer-episode-level-title-_4vMB_rV</link>
