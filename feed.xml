@@ -7,7 +7,7 @@
 
     <!-- Apple's channel-level "Required tags" -->
     <!-- https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
-    <title>Example Metadata Show (podcast-level title)</title>
+    <title>Product Packaging Show (podcast-level title)</title>
     <description>(Podcast-level description) Plain text. No HTML. No hyperlinks. No rich text. No paragraph breaks. Maximum 4000 characters.</description>
     <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed" />
     <language>en</language>
@@ -46,7 +46,6 @@
     </image>
     <itunes:summary>(Podcast-level itunes:summary) Plain text. No HTML. No rich text. No hyperlinks. No paragraph breaks. Simplecast calls this "Show Info: Description."</itunes:summary>
     <itunes:keywords>podcast-level itunes:keyword, comma, separated, list, keywords, tags, pacific content</itunes:keywords>
-
 
     <item>
       <!-- Apple's item-level "Required tags" -->
