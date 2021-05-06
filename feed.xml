@@ -44,7 +44,7 @@
       <title>Where Does My Podcast Metadata Appear? (podcast-level image title)</title>
       <url>https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/e9697295-ec38-4e32-bec7-c5a836e199a8/3000x3000/bun-4.jpg?aid=rss_feed</url>
     </image>
-    <itunes:summary>(Podcast-level itunes:summary) Plain text. HTML.</itunes:summary>
+    <itunes:summary>(Podcast-level itunes:summary) Plain text. No HTML. No rich text. No hyperlinks.</itunes:summary>
     <itunes:keywords>podcast-level itunes:keyword, comma, separated, list, keywords, tags, pacific content</itunes:keywords>
 
 
