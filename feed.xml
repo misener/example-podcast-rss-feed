@@ -22,7 +22,7 @@
     <!-- Apple's channel-level "Recommended tags" -->
     <!-- https://help.apple.com/itc/podcasts_connect/#/itcb54353390 -->
     <itunes:author>Pacific Content (podcast-level itunes:author)</itunes:author>
-    <link>https://examplemetadatashow.pacific-content.com</link>
+    <link>https://productpackaging.pacific-content.com</link>
     <itunes:owner>
       <itunes:name>Show Owner (podcast-level itunes:name)</itunes:name>
       <itunes:email>info@pacific-content.com</itunes:email>
@@ -40,7 +40,7 @@
     <pubDate>Wed, 5 May 2021 22:28:58 +0000</pubDate>
     <lastBuildDate>Wed, 5 May 2021 22:32:01 +0000</lastBuildDate>
     <image>
-      <link>https://examplemetadatashow.pacific-content.com</link>
+      <link>https://productpackaging.pacific-content.com</link>
       <title>Where Does My Podcast Metadata Appear? (podcast-level image title)</title>
       <url>https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/ec899773-5670-4500-ae50-58a167b62f9c/3000x3000/bun-12.jpg</url>
     </image>
@@ -59,7 +59,7 @@
         <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images in this tag, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
-      <link>https://examplemetadatashow.pacific-content.com/episodes/the-hare-the-tortoise-iBWZ_aHc</link>
+      <link>https://productpackaging.pacific-content.com/episodes/the-hare-the-tortoise-iBWZ_aHc</link>
       <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/ec5f6103-9b25-478b-91b7-4cb3e91edf87/3000x3000/bun-10.jpg" />
       <itunes:explicit>no</itunes:explicit>
 
@@ -97,7 +97,7 @@
         <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images in this tag, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
-      <link>https://examplemetadatashow.pacific-content.com/episodes/the-fox-the-stork-TcktxGaZ</link>
+      <link>https://productpackaging.pacific-content.com/episodes/the-fox-the-stork-TcktxGaZ</link>
       <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/111099f5-4698-4ace-bd68-676864adef35/3000x3000/bun-9.jpg" />
       <itunes:explicit>no</itunes:explicit>
 
@@ -136,7 +136,7 @@
         <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images in this tag, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
-      <link>https://examplemetadatashow.pacific-content.com/episodes/the-frogs-and-the-ox</link>
+      <link>https://productpackaging.pacific-content.com/episodes/the-frogs-and-the-ox</link>
       <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/2d466205-3465-4e9a-965c-eb2b015ada80/3000x3000/bun-8.jpg" />
       <itunes:explicit>no</itunes:explicit>
 
@@ -174,7 +174,7 @@
         <![CDATA[<p>(Episode-level <code>description</code>) This tag allows <i>rich text</i> and <a href="https://pacific-content.com">hyperlinks</a> using HTML. Apple says this should be "text containing one or more sentences describing your episode to potential listeners. You can specify up to 4000 characters."</p><p>Simplecast calls this the "Episode Notes"</p><p>If your podcast player app supports lists, you should see a list:</p><ol><li>Support for lists</li><li>Support for lists</li><li>Support for lists</li></ol><p>If your podcast app supports images in this tag, you should see an image of a monkey: <img src="https://media.giphy.com/media/GuWSJPF6bEkKs/giphy.gif"></p>]]>
       </description>
       <itunes:duration>00:01:35</itunes:duration>
-      <link>https://examplemetadatashow.pacific-content.com/episodes/season-one-trailer-episode-level-title-_4vMB_rV</link>
+      <link>https://productpackaging.pacific-content.com/episodes/season-one-trailer-episode-level-title-_4vMB_rV</link>
       <itunes:image href="https://image.simplecastcdn.com/images/7dfa8d26-0674-443c-944c-bfd6457bf0cf/80e3f38f-a867-481f-9f05-d3384c2dc13a/3000x3000/trailer.jpg" />
       <itunes:explicit>no</itunes:explicit>
 
